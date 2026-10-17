@@ -111,3 +111,11 @@ Commercial affiliation disclosure: Prepared for ISO Checklist. The linked resour
 The procedure used in this case is an invented local rule, not an ISO requirement. This original educational guide does not reproduce a standard or replace the applicable licensed standard. It is not official ISO guidance, an assurance opinion or a certification guarantee.
 
 This guide is original educational material prepared for public sharing. The fictional worked case is not a customer result or a report of a real audit. Linked resource pages were checked on 17 October 2026.
+
+## AI preparation and technical check - 17 October 2026
+
+This original Edition 1.0 starter was prepared with AI assistance. On 17 October 2026, Codex AI completed a bounded technical and content-consistency check of the original README and all four pages of the unchanged starter PDF. No content correction was required. This is an AI check, not a claim of personal human technical approval, a review of the full licensed standards or an assurance opinion about a real operation.
+
+The [technical-check record](technical-check-2026-10-17.json) identifies the checked files, their digests, review scope, supporting primary guidance and access limits.
+
+For separate expanded working files, use the [free Audit Evidence Pack 2.0.1](https://isochecklist.com/audit-evidence-pack), which includes Excel and PDF resources. This expansion does not replace the original Edition 1.0 content or modify its four-page PDF.

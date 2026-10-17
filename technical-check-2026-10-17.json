@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-17",
+  "resource": "An Evidence-Led Internal Audit: A Practical Starter Guide",
+  "edition": "1.0",
+  "status": "AI bounded check completed; no content correction required",
+  "preparedFor": "ISO Checklist",
+  "preparation": "Original educational material prepared with AI assistance.",
+  "check": {
+    "performedBy": "Codex AI on behalf of ISO Checklist",
+    "type": "Bounded technical/content-consistency and public-source check",
+    "scope": "Original README and all four pages of the unchanged starter PDF; added README disclosure checked for accuracy and consistency.",
+    "humanPersonalTechnicalApproval": false,
+    "sourcePdfChanged": false,
+    "technicalContentCorrectionRequired": false,
+    "observations": [
+      "Organisations, procedures, record identifiers, quantities and outcomes are explicitly fictional.",
+      "The initial sample is six of eighteen releases; two lack demonstrated prior approval, four have timestamps, and twelve are untested. No population failure rate is inferred.",
+      "The fictional criterion requires approval before issue for every release AND approved handling of each exception; the exception route does not substitute for approval.",
+      "A demonstrated queue weakness is investigated as a possible cause; a remedial gate depends on the investigation confirming the mechanism.",
+      "The later example checks all twelve releases: eleven meet the agreed criteria and one fails. The finding remains open.",
+      "Record handling follows approved repository/access arrangements and local criteria. The fictional case provides no real operational assurance."
+    ]
+  },
+  "checkedFiles": [
+    {
+      "path": "README.md",
+      "sha256": "18be05de33d5b5181164cee72df1d0a61551948fa2cab857d84e7426d2f1cfc8",
+      "bytes": 10081,
+      "meaning": "Current README including the appended preparation/check section; original content and Edition 1.0 retained."
+    },
+    {
+      "path": "evidence-led-internal-audit-guide.pdf",
+      "sha256": "72d418d8f4ce2991d4cdde8e1c0d3c063259c1612768c85a857acf0370fee9ed",
+      "bytes": 69133,
+      "pages": 4,
+      "meaning": "Unchanged original starter PDF read in full for this check."
+    }
+  ],
+  "baselineReadme": {
+    "sha256": "8b9dbb70f91e8867b664c1f3bde77b270ca34ab1eec78ce688fc034a0f882dc3",
+    "bytes": 9163,
+    "meaning": "Original README content retained byte-for-byte as the prefix of the current README."
+  },
+  "supportingPrimaryGuidance": [
+    {
+      "title": "ISO 9001 Auditing Practices Group: Nonconformity - review and closing",
+      "url": "https://committee.iso.org/files/live/sites/tc176/files/PDF%20APG%20New%20Disclaimer%2012-2023/ISO-TC%20176-TF_APG-ReviewNonconformity.pdf",
+      "accessedOn": "2026-10-17",
+      "use": "Educational background for distinguishing correction, cause investigation, corrective action and an evidence-based closure decision.",
+      "limit": "APG educational paper, not a normative requirement or an endorsed certification opinion."
+    },
+    {
+      "title": "ISO 19011 publication catalogue",
+      "url": "https://www.iso.org/standard/19011",
+      "accessedOn": "2026-10-17",
+      "use": "Public publication record identifies ISO 19011:2026, Edition 4, published May 2026.",
+      "limit": "Public catalogue only; full licensed standard was not reviewed and no clause-conformity claim is made."
+    }
+  ],
+  "separateExpandedResource": {
+    "title": "Free Audit Evidence Pack",
+    "version": "2.0.1",
+    "url": "https://isochecklist.com/audit-evidence-pack",
+    "relationship": "Separate expanded Excel/PDF working resource; does not replace or revise this Edition 1.0 starter PDF."
+  },
+  "accessAndInterpretationLimits": [
+    "AI reasoning/source consistency only; no personal human expert sign-off or certification claim.",
+    "No real customer records, workplace process or control implementation assessed.",
+    "Existing visual checks concern the same unchanged PDF bytes; no new PDF rendering or fresh Calameo original-byte download is claimed.",
+    "No indexing, backlink attribute or ranking outcome is established by this record."
+  ]
+}
